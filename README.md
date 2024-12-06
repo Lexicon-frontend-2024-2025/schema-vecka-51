@@ -5,8 +5,8 @@
 
 ## Mål för veckan
 1. Förståelse för media/container queries samt enheter för dessa.
-2. Kunna använda Flexbox för att positionera element.
-3. Kunna använda CSS Grid för att positionera element.
+2. Skapa tillgängliga formulär med grundläggande validering
+3. Skapa pop-ups/modals
 
 ## Material
 #### Utvalda för denna veckan:
