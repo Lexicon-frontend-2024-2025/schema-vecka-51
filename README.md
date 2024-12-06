@@ -17,7 +17,8 @@
 #### Läsning
 * []()
 ## Övningar
-* [Poster Shop](https://code.zocom.io/frontend/mockups/figma-layout-app-company)
+* [?](https://code.zocom.io/frontend/mockups/figma-layout-app-company)
+* [Intro responsivitet bootcamp]()
 ## Slides
 * []()
 
