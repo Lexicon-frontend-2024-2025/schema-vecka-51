@@ -26,6 +26,6 @@
 ##### Med tillhörande repon
 * **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec)** - Media Queries, Container queries och clamp.
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-17-dec)** Fördjupning Grid  
-* **[Onsdag]()**  - Code review av Poster Shop
+* **[Onsdag]()**  Code review på [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop), både i flexbox och css grid (eller bara den ena - välj den version som ni vill visa och ha input på)
 * **[Torsdag]()**  - Forms, input types och inbyggt validering
 * **[Fredag]()** - Dialog/Modal och koppling till submit
