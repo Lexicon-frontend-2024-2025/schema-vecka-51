@@ -24,8 +24,8 @@
 
 ## Lektioner
 ##### Med tillhörande repon
-* **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec)** - Media Queries
-* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-17-dec)** - Container queries och clamp, [Genoomgång av Poster Shop i CSS grid: ](https://github.com/Lexicon-frontend-2024-2025/poster-shop).
-* **[Onsdag]()** - Forms, input types och inbyggt validering
-* **[Torsdag]()** - Dialog/Modal och koppling till submit
-* **[Fredag]()** - Code review
+* **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-16-dec)** - Media Queries, Container queries och clamp.
+* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-17-dec)** Fördjupning Grid  
+* **[Onsdag]()**  - Code review av Poster Shop
+* **[Torsdag]()**  - Forms, input types och inbyggt validering
+* **[Fredag]()** - Dialog/Modal och koppling till submit
