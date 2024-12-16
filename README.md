@@ -17,7 +17,6 @@
 #### Läsning
 * []()
 ## Övningar
-* [?](https://code.zocom.io/frontend/mockups/figma-layout-app-company)
 * [Intro responsivitet bootcamp]()
 ## Slides
 * []()
