@@ -18,6 +18,7 @@
 * []()
 ## Övningar
 * [Intro responsivitet bootcamp]()
+* [Container queries och clamp](https://github.com/Lexicon-frontend-2024-2025/ovning-container-queries-clamp/tree/main)
 ## Slides
 * [Container queries och clamp](https://docs.google.com/presentation/d/1sNCPQe_l8dQPUyJz23eTA35cDrWWLmBSdiOR301H83Y/edit?usp=sharing)
 
