@@ -19,7 +19,7 @@
 ## Övningar
 * [Intro responsivitet bootcamp]()
 ## Slides
-* []()
+* [Container queries och clamp](https://docs.google.com/presentation/d/1sNCPQe_l8dQPUyJz23eTA35cDrWWLmBSdiOR301H83Y/edit?usp=sharing)
 
 ## Lektioner
 ##### Med tillhörande repon
