@@ -17,6 +17,7 @@
 #### Läsning
 * [Input och input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 * [Input labels](https://css-tricks.com/html-inputs-and-labels-a-love-story/)
+* [Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 ## Övningar
 * [Intro responsivitet bootcamp]()
 * [Container queries och clamp](https://github.com/Lexicon-frontend-2024-2025/ovning-container-queries-clamp/tree/main)
