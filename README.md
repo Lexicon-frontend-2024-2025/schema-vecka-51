@@ -14,11 +14,13 @@
 #### Youtube
 * [Media och Container queries](https://www.youtube.com/watch?v=2rlWBZ17Wes)
 * [Container queries](https://www.youtube.com/watch?v=ZSaAHb5dRwQ)
+* Extra - [Modal/dialog](https://www.youtube.com/watch?v=ywtkJkxJsdg)
 #### Läsning
 * [Input och input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 * [Input labels](https://css-tricks.com/html-inputs-and-labels-a-love-story/)
 * [Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 * Extra - [Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/)
+* Extra - [Dialog/modal](https://blog.hubspot.com/website/html-dialog)
 ## Övningar
 * [Intro responsivitet bootcamp]()
 * [Container queries och clamp](https://github.com/Lexicon-frontend-2024-2025/ovning-container-queries-clamp/tree/main)
